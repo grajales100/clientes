@@ -1,0 +1,6 @@
+.tamano{
+    height: 30px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}

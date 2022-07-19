@@ -1,0 +1,31 @@
+.organizar{
+    display: flex;
+    justify-content: center;
+}
+
+.card1{
+    width: 40%;
+}
+
+.centrar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.organizar2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap:10px;
+}
+
+.completo{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.completo1{
+    width: 100%;
+}
